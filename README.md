@@ -5,7 +5,7 @@ A complete **Event Ticket Management System** with REST API backend (Flask) and 
 
 - 🎭 **Event Management**
   - Create, view, and manage events
-  - Date/time and location tracking
+  - Date/time tracking
 - 🎟️ **Ticket System**
   - Generate unique ticket tokens
   - Track redemption status

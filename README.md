@@ -26,6 +26,7 @@ event_ticket_api/
 │   ├── models/                # Database models
 │   ├── services/              # Business logic
 │   ├── utils/                 # Helper functions
+|   ├── exceptions/            # exceptions handling
 │   └── __init__.py            # App factory
 ├── streamlit_app.py           # Modern web UI
 ├── requirements.txt           # Dependencies

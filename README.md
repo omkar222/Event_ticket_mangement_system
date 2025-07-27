@@ -105,17 +105,6 @@ streamlit run streamlit_app.py
    pytest tests/
    ```
 
-## Deployment
-
-1. **Docker setup**
-   ```bash
-   docker-compose up -d
-   ```
-
-2. **Production considerations**
-   - Use Gunicorn for Flask
-   - Configure proper secret keys
-   - Set up PostgreSQL connection pooling
 
 ## Contributing
 
